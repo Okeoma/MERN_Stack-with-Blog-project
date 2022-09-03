@@ -18,7 +18,7 @@ Installs all necessary modules in the app
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Screenshot](https://github.com/Okeoma/MERN_Stack-with-Blog-project/blob/main/blogpost%20printscreen.jpg)
+![Screenshot]()
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
