@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## It is ad in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. 
+## It is an in-depth full-stack Blog project application using Node.js, Express, React, and MongoDB along with ES6+. 
 
 Before you start running the application, navigate into the Back_end folder and run the below commands (i.e: `npm install` and `npm start`). Follow the same process for the Front_end folder to run the application.
 ## Available Scripts
